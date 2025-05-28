@@ -403,7 +403,7 @@ Chat Binds
 == 聊天绑定
 
 Kaomoji
-== 表情符号
+== 颜文字
 
 Status Bar
 == 状态栏
@@ -630,7 +630,7 @@ TClient
 Colors in spectate select
 == 旁观选择中的颜色
 
-_ or \' \' = Space
+ _ or \' \' = Space
 == _ 或 \' \' = 置空（占位）
 
 Voting
@@ -797,19 +797,19 @@ Draw where mouse is
 == 绘制鼠标所在位置
 
 Shrug:
-== 耸肩：
+== 耸肩 ¯\_(ツ)_/¯ ：
 
 Flip:
-== 翻转：
+== 掀翻桌子 (╯°□°)╯︵ ┻━┻ ：
 
 Unflip:
-== 取消翻转：
+== 放好桌子 ┬─┬ノ( º _ ºノ) ：
 
 Cute:
-== 可爱：
+== 可爱 ૮ ˶ᵔ ᵕ ᵔ˶ ა ：
 
 Lenny:
-== Lenny:
+== 调皮 ( ͡° ͜ʖ ͡°) :
 
 Mute Commands
 == 静音命令
