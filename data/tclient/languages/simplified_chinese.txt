@@ -379,10 +379,10 @@ Enable warlist
 == 启用敌对列表
 
 Colors in chat
-== 在聊天栏中的颜色
+== 覆盖聊天栏中的颜色
 
 Colors in scoreboard
-== 在记分板中的颜色
+== 覆盖记分板中的颜色
 
 War Groups
 == 敌对群组
@@ -397,7 +397,7 @@ Online Players
 == 在线玩家
 
 Show clan if war
-== 如果有敌对则显示战队
+== 敌对时显示战队
 
 Chat Binds
 == 聊天绑定
@@ -559,7 +559,7 @@ Remove [group] [clan]
 == 删除 [组] [战队]
 
 Command
-== 命令
+== 指令
 
 Extra tick other tees (increases other tees latency, \nmakes dragging slightly easier when using fast input)
 == 对其他tee增加帧（增加其他tee的延迟，\n使用更快的输入时使钩其他tee稍微容易一些）
@@ -628,7 +628,7 @@ TClient
 == TClient
 
 Colors in spectate select
-== 旁观选择中的颜色
+== 覆盖旁观选择中的颜色
 
  _ or \' \' = Space
 == _ 或 \' \' = 置空（占位）
@@ -668,7 +668,6 @@ Tee
 
 Speed
 == 速度
-
 
  seconds
 ==  秒
@@ -723,7 +722,7 @@ Loaded %zu items (discarded %zu items)
 == 加载了 %zu 项（丢弃了 %zu 项）
 
 Normal
-== 正常模式
+== 原版模式
 
 [bgdraw]
 Opening %s for %s
@@ -766,7 +765,7 @@ Vertical Position
 == 垂直位置
 
 Wheel animate
-== 滚轮动画
+== 轮盘动画速度
 
 Width
 == 宽度
@@ -812,7 +811,7 @@ Lenny:
 == 调皮 ( ͡° ͜ʖ ͡°) :
 
 Mute Commands
-== 静音命令
+== 静音指令
 
 Translate:
 == 翻译：
